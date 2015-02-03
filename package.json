@@ -1,0 +1,9 @@
+{
+    "name": "1_blog",
+    "description": "express example app",
+    "version": "0.0.1",
+    "author": "Deepak Karki",
+    "dependencies": {
+        "express": "latest"
+    }
+}
